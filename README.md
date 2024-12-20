@@ -1,6 +1,7 @@
+Here's the README.md updated with a Mermaid flowchart instead of the D3.js mindmap:
 
 ```markdown
-# D.A.S.H
+# AI-Powered Data Analysis Chat System
 
 ## Overview
 An interactive chat system that leverages OpenAI's GPT-4 model to analyze retail transaction data through natural language conversations. The system combines LangChain's agent framework with pandas for powerful data analysis capabilities.
